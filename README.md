@@ -1,5 +1,5 @@
-# DDos-Detection-ML
-Detecting if a network flow is a DDOs attack or not using graph kernels with Machine Learning
+# DDoS-Detection-ML
+Detecting if a network flow is a DDoS attack or not using graph kernels with Machine Learning
 
 Ensure that the packages and libraries are installed, especially GraKel, this can be done by running the very first cell.
 
